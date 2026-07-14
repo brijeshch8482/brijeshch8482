@@ -65,13 +65,6 @@ Voice-controlled (wake-word + Whisper) · 15 tools with tiered permissions · pl
 ![Whisper](https://img.shields.io/badge/Whisper%20STT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code%20CLI-D97757?style=flat-square&logo=claude&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brijeshch8482&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshch8482&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
 ---
 
 <p align="center">
